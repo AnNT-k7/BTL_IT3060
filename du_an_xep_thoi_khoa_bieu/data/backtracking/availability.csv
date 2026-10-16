@@ -1,0 +1,10 @@
+teacher_id,day,period,available
+GV-A,T2,1,true
+GV-A,T2,2,true
+GV-A,T2,3,true
+GV-B,T2,1,true
+GV-B,T2,2,false
+GV-B,T2,3,false
+GV-C,T2,1,false
+GV-C,T2,2,true
+GV-C,T2,3,true

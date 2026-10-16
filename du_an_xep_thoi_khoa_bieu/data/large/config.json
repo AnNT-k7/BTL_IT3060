@@ -1,0 +1,18 @@
+{
+  "days": [
+    "T2",
+    "T3",
+    "T4",
+    "T5",
+    "T6"
+  ],
+  "periods_per_day": 6,
+  "weights": {
+    "late_periods": 2,
+    "student_gaps": 1,
+    "preference_penalty": 1
+  },
+  "time_limit_seconds": 10,
+  "seed": 3163,
+  "data_note": "Dữ liệu mô phỏng sinh bởi generate_data.py; không phải lịch chính thức."
+}

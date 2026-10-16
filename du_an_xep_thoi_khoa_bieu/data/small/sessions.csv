@@ -1,0 +1,10 @@
+session_id,course_id,teacher_id,group_id,size,duration,room_type
+S02,HP02,GV02,NH01,35,2,normal
+S06,HP03,GV01,NH02,40,2,normal
+S07,HP01,GV02,NH03,45,2,normal
+S08,HP02,GV03,NH03,45,2,normal
+S04,HP01,GV04,NH02,40,2,normal
+S01,HP01,GV01,NH01,35,2,normal
+S03,HP03,GV03,NH01,35,2,normal
+S09,HP03,GV04,NH03,45,2,normal
+S05,HP02,GV05,NH02,40,2,normal

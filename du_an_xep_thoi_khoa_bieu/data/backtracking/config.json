@@ -1,0 +1,7 @@
+{
+  "days": ["T2"],
+  "periods_per_day": 3,
+  "weights": {"late_periods": 1, "student_gaps": 1, "preference_penalty": 1},
+  "time_limit_seconds": 10,
+  "data_note": "Bộ mô phỏng nhỏ để quan sát quay lui và MRV."
+}

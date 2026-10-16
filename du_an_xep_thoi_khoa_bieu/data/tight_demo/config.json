@@ -1,0 +1,14 @@
+{
+  "days": [
+    "T2"
+  ],
+  "periods_per_day": 4,
+  "time_limit_seconds": 10,
+  "weights": {
+    "late_periods": 0,
+    "student_gaps": 0,
+    "preference_penalty": 0
+  },
+  "seed": 3161,
+  "data_note": "Dữ liệu stress test có nghiệm cài sẵn; mỗi phòng là một loại lab riêng, không phải lịch thực tế."
+}

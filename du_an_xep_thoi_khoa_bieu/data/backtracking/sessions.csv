@@ -1,0 +1,4 @@
+session_id,course_id,teacher_id,group_id,size,duration,room_type
+A,HP-A,GV-A,NH-A,30,1,normal
+B,HP-B,GV-B,NH-B,30,1,normal
+C,HP-C,GV-C,NH-C,30,1,normal
