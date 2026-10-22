@@ -37,6 +37,7 @@ Trên Windows, thay `python3` bằng `.\.venv\Scripts\python.exe` nếu đã t�
 
 ## Tài liệu
 
+- [Proposal báo cáo với giảng viên (23/10/2026)](Proposal_bao_cao_thay_23-10-2026.md)
 - [Ý tưởng đề tài](Y_tuong_bai_tap_lon_AI.md)
 - [Brief chi tiết](Brief_chi_tiet_xep_thoi_khoa_bieu_AI.md)
 - [Quy trình thực hiện](Quy_trinh_thuc_hien_du_an.md)
